@@ -20,7 +20,12 @@
 - [Postgres](https://github.com/brianc/node-postgres)
 
 ## Продемонстрируйте работу проекта
-Демонстрация работы программы доступна в [презентации](https://docs.google.com/presentation/d/1NeWB1t-WIRasvRUNPC6VxFJFDD-Y7UbMpQ-bNz24-V0/edit?usp=sharing)
+Презентация доступна [тут](https://docs.google.com/presentation/d/1NeWB1t-WIRasvRUNPC6VxFJFDD-Y7UbMpQ-bNz24-V0/edit?usp=sharing)
   
-## Как запустить вашу программу?
-Напишите кратко пошаговую инструкцию, как запустить вашу программу залив ее с гита. (если вы выполняете задачу с ботами вынесите все пароли и токены в отдельный файл и добавьте его в **.gitignore**)
+Посмотреть работу сервиса может [тут](http://68.183.78.177/)
+
+Можете попробовать с моими тестовыми данными 
+```
+develop.gonzales@gmail.com
+qwerty1234
+```
