@@ -1,10 +1,10 @@
 # lioned.online
 ![lioned.online logo](./images/lioned.online.jpg "ioned.online logo")
 
-## Какую задачу решает проект?
-Часто мы читаем англоязычные статьи, но знаем не все слова из нее. Сервис наценен на изучение английских слов по статьям из интернета.
+## What problem is solved by this project?
+Often we read English-language articles, but do not know all the words from this. The service is designed to learn English words on articles from the Internet.
 
-## На чем написан проект?
+## Technology stack
 ### Frontend
 - [Vue](https://vuejs.org/)
 - [Vuex](https://vuex.vuejs.org/)
@@ -19,12 +19,12 @@
 - [Sequelize](https://sequelize.org/)
 - [Postgres](https://github.com/brianc/node-postgres)
 
-## Продемонстрируйте работу проекта
-Презентация доступна [тут](https://docs.google.com/presentation/d/1NeWB1t-WIRasvRUNPC6VxFJFDD-Y7UbMpQ-bNz24-V0/edit?usp=sharing)
+## Demo
+Presentation is available [here](https://docs.google.com/presentation/d/1NeWB1t-WIRasvRUNPC6VxFJFDD-Y7UbMpQ-bNz24-V0/edit?usp=sharing)
   
-Посмотреть работу сервиса может [тут](http://68.183.78.177/)
+See the web service [here](http://68.183.78.177/)
 
-Можете попробовать с моими тестовыми данными 
+You can try with my test data.
 ```
 develop.gonzales@gmail.com
 qwerty1234
